@@ -1,0 +1,8 @@
+com\theatre\service\impl\TheatreServiceImpl.class
+com\theatre\controller\TheatreController.class
+com\theatre\entity\Theatre.class
+com\theatre\dto\TheatreDTO.class
+com\theatre\service\TheatreService.class
+com\theatre\TheatreApplication.class
+com\theatre\TheatreConfig.class
+com\theatre\repository\TheatreRepository.class
